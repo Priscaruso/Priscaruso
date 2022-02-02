@@ -6,6 +6,8 @@
 
 👯 I’m looking to collaborate on Data Projects
 
+😀 Pronouns: She/Her
+
 ##
 
 <div align="center">
