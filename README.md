@@ -12,7 +12,6 @@
   <a href="https://github.com/Priscaruso">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Priscaruso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscaruso&layout=compact&langs_count=7&theme=radical"/>
-  <img height="160em" scr="https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=github-readme-stats&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
  
@@ -27,7 +26,10 @@
   <a href="https://www.linkedin.com/in/priscilacaruso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Priscaruso/Priscaruso/blob/output/github-contribution-grid-snake.svg)
- 
+  
+  ##
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=ETL_com_Python&theme=radical)](https://github.com/Priscaruso/ETL_com_Python)
 </div>
   
 <!--
