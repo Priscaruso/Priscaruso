@@ -4,7 +4,7 @@
 
 👯 I’m looking to collaborate on Data Projects
 
-😄 Pronouns: She/Her/Ela/Dela
+😄 Pronouns: She/Her
 
 <div align="center">
   <a href="https://github.com/Priscaruso">
