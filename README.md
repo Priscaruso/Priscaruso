@@ -1,6 +1,8 @@
 ### Hi! Welcome to my GitHub! I'm Priscila Caruso 👋
 
-🌱 I’m currently learning Python and Azure Cloud
+💻 I'm passioned about Technology
+
+🌱 I’m currently learning Python, SQL and Azure Cloud
 
 👯 I’m looking to collaborate on Data Projects
 
