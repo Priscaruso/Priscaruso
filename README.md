@@ -2,7 +2,9 @@
 
 💻 I'm passioned about Technology
 
-🌱 I’m currently learning Python, SQL and Azure Cloud
+🌱 I’m currently learning Python, SQL and Cloud tecnologies like Azure and AWS
+
+👩‍💻 I'm looking for Data or Data Cloud Engineering job opportunities
 
 👯 I’m looking to collaborate on Data Projects
 
