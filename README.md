@@ -6,7 +6,7 @@
 
 👩‍💻 I'm looking for Data or Data Cloud Engineering job opportunities
 
-👯 I’m looking to collaborate on Data Projects
+👯 I’m looking forward to collaborate on Data Projects
 
 😀 Pronouns: She/Her
 
