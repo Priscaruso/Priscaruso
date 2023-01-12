@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/Priscaruso">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Priscaruso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscaruso&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Priscaruso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Priscaruso&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
  
@@ -38,9 +38,9 @@
   
 <div align="left" height="60" width="60">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=ETL_com_Python&theme=radical)](https://github.com/Priscaruso/ETL_com_Python) 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=Bookclub_project&theme=radical)](https://github.com/Priscaruso/Bookclub_project)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=BigData-AWS&theme=radical)](https://github.com/Priscaruso/BigData-AWS)
+  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Priscaruso&repo=ETL_com_Python&theme=radical)](https://github.com/Priscaruso/ETL_com_Python) 
+  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Priscaruso&repo=Bookclub_project&theme=radical)](https://github.com/Priscaruso/Bookclub_project)
+   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Priscaruso&repo=BigData-AWS&theme=radical)](https://github.com/Priscaruso/BigData-AWS)
   </div>
   
 <!--
