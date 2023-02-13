@@ -19,10 +19,10 @@
 </div>
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Pri-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pri-Azure" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Pri-postgresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Pri-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pri-postgresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Pri-Azure" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="right" alt="Pri-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/838947037105225749/938447732778106971/prigif2.png?width=676&height=676">
 </div>
   
