@@ -2,7 +2,7 @@
 
 💻 I'm passioned about Technology
 
-🌱 I’m currently learning Python, SQL and AWS Cloud
+🌱 I’m currently learning Python, SQL, Git, AWS Cloud and Airflow
 
 👩‍💻 I'm looking for Data or Data Cloud Engineering job opportunities
 
