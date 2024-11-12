@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python, SQL, Git, AWS Cloud and Airflow
 
-👩‍💻 I'm looking for Data or Data Cloud Engineering job opportunities
+👩‍💻 I'm looking for Data Engineering or Data Cloud Engineering job opportunities
 
 👯 I’m looking forward to collaborate on Data Projects
 
